@@ -1,0 +1,276 @@
+
+<!DOCTYPE html>
+<!--
+============================================================
+Bsun Image Resizer - Privacy Policy
+
+Copyright © 2026 Bisan Subba. All rights reserved.
+Developed by Bisan Subba.
+============================================================
+-->
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <meta name="description"
+        content="Privacy Policy for Bsun Image Resizer, a Windows desktop image resizing application developed by Bisan Subba.">
+
+  <title>Bsun Image Resizer | Privacy Policy</title>
+
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      padding: 35px 18px;
+      font-family: "Segoe UI", Arial, sans-serif;
+      line-height: 1.8;
+      color: #eaf4ff;
+      background: linear-gradient(
+        135deg,
+        #071b40 0%,
+        #10458c 48%,
+        #1595cf 100%
+      );
+      min-height: 100vh;
+    }
+
+    .container {
+      max-width: 850px;
+      margin: 0 auto;
+      padding: 40px;
+      background: rgba(6, 23, 55, 0.65);
+      border: 1px solid rgba(255, 255, 255, 0.18);
+      border-radius: 18px;
+      box-shadow: 0 12px 35px rgba(0, 0, 0, 0.25);
+    }
+
+    header {
+      text-align: center;
+      margin-bottom: 35px;
+    }
+
+    h1 {
+      color: #ffffff;
+      font-size: 2rem;
+      margin-bottom: 8px;
+    }
+
+    h2 {
+      color: #82dcff;
+      font-size: 1.2rem;
+      margin-top: 32px;
+      margin-bottom: 10px;
+    }
+
+    p, li {
+      font-size: 15px;
+    }
+
+    .subtitle {
+      color: #b9eaff;
+      font-size: 16px;
+    }
+
+    .details {
+      padding: 18px 22px;
+      background: rgba(255, 255, 255, 0.08);
+      border-radius: 10px;
+      margin-bottom: 25px;
+    }
+
+    ul {
+      padding-left: 24px;
+    }
+
+    a {
+      color: #a4ebff;
+      overflow-wrap: anywhere;
+    }
+
+    a:hover {
+      color: #ffffff;
+    }
+
+    footer {
+      text-align: center;
+      margin-top: 45px;
+      padding-top: 22px;
+      border-top: 1px solid rgba(255, 255, 255, 0.2);
+      color: #c9e9ff;
+      font-size: 13px;
+    }
+
+    @media (max-width: 600px) {
+      .container {
+        padding: 24px 20px;
+      }
+
+      h1 {
+        font-size: 1.6rem;
+      }
+
+      body {
+        padding: 15px 10px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <main class="container">
+
+    <header>
+      <h1>Bsun Image Resizer</h1>
+      <p class="subtitle">Privacy Policy</p>
+    </header>
+
+    <div class="details">
+      <strong>Application:</strong> Bsun Image Resizer<br>
+      <strong>Version:</strong> 1.0<br>
+      <strong>Developer:</strong> Bisan Subba<br>
+      <strong>Platform:</strong> Microsoft Windows<br>
+      <strong>Last Updated:</strong> 12 October 2026
+    </div>
+
+    <section>
+      <h2>1. Introduction</h2>
+      <p>
+        Bsun Image Resizer is a Windows desktop application
+        developed by Bisan Subba. It allows users to resize
+        images, adjust image dimensions, preview resizing
+        results, and save images in supported formats.
+      </p>
+      <p>
+        This Privacy Policy explains how the application
+        handles user information and image files.
+      </p>
+    </section>
+
+    <section>
+      <h2>2. Information Collection</h2>
+      <p>
+        Bsun Image Resizer does not collect, transmit,
+        or share personal information.
+      </p>
+      <p>
+        The application does not require registration,
+        user accounts, or personal details.
+      </p>
+    </section>
+
+    <section>
+      <h2>3. Image Processing and Storage</h2>
+      <p>
+        All image processing takes place locally
+        on the user's Windows computer.
+      </p>
+      <ul>
+        <li>Images are not uploaded to external servers.</li>
+        <li>Images are not transmitted to the developer.</li>
+        <li>Users choose which images to process.</li>
+        <li>Resized images are saved to user-selected locations.</li>
+        <li>No online image database is maintained.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>4. Internet Connectivity</h2>
+      <p>
+        Bsun Image Resizer does not require an internet
+        connection for its image resizing functionality.
+        Processing is performed locally on the device.
+      </p>
+    </section>
+
+    <section>
+      <h2>5. Third-Party Services</h2>
+      <p>
+        Bsun Image Resizer does not integrate advertising
+        networks, analytics services, or third-party
+        tracking systems.
+      </p>
+      <p>
+        The application is developed using Python,
+        Tkinter, and Pillow for its graphical interface
+        and image processing functionality.
+      </p>
+    </section>
+
+    <section>
+      <h2>6. Data Sharing</h2>
+      <p>
+        The developer does not receive, sell,
+        or share users' images or personal information
+        through the application.
+      </p>
+    </section>
+
+    <section>
+      <h2>7. Data Security</h2>
+      <p>
+        Images are processed locally, allowing users
+        to retain control over their files and
+        selected save locations.
+      </p>
+      <p>
+        Users are responsible for managing and protecting
+        files stored on their computers.
+      </p>
+    </section>
+
+    <section>
+      <h2>8. Children's Privacy</h2>
+      <p>
+        Bsun Image Resizer does not knowingly collect
+        personal information from children or adults.
+      </p>
+    </section>
+
+    <section>
+      <h2>9. Changes to This Privacy Policy</h2>
+      <p>
+        This Privacy Policy may be updated when
+        application features or data-handling
+        practices change.
+      </p>
+      <p>
+        Any updates will be published on this page
+        with a revised date.
+      </p>
+    </section>
+
+    <section>
+      <h2>10. Contact Information</h2>
+      <p>
+        For privacy-related questions or application
+        support, please contact:
+      </p>
+
+      <p>
+        <strong>Developer:</strong> Bisan Subba<br>
+        <strong>Email:</strong>
+        <a href="mailto:YOUR_EMAIL@example.com">
+          YOUR_EMAIL@example.com
+        </a><br>
+        <strong>Website:</strong>
+        <a href="https://bsun7131.github.io/">
+          https://bsun7131.github.io/
+        </a>
+      </p>
+    </section>
+
+    <footer>
+      <p>
+        Copyright &copy; 2026 Bisan Subba.
+        All rights reserved.
+      </p>
+      <p>Developed by Bisan Subba.</p>
+    </footer>
+
+  </main>
+</body>
+</html>
